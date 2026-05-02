@@ -84,6 +84,7 @@ Power BI, DAX
 - Дополнительно исследовать качество интернет-услуг  
 
 ---
+<img width="1274" height="860" alt="image" src="https://github.com/user-attachments/assets/d85cf0e0-d967-4937-a039-8212cc7a7702" />
 
 Анастасия Нечаева  
 Junior Data / BI Analyst
